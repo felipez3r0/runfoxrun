@@ -1,0 +1,22 @@
+﻿{
+	"name": "Run Fox Run",
+	"description": "Corrida infinita",
+	"version": "1.0.0.0",
+	"launch_path": "/index.html",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"32": "/icon32.png",
+		"60": "/icon60.png",
+		"90": "/icon90.png",
+		"128": "/icon128.png",
+		"256": "/icon256.png"
+	},
+	"developer": {
+		"name": "Felipe Do E. Santo",
+		"url": "http://hardcodigo.com.br"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"fullscreen": "true"
+}
